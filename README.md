@@ -2,9 +2,6 @@
 
 A powerful and intuitive data visualization dashboard that lets users upload CSV files, explore interactive plots, and receive AI-generated insights using OpenAI. Designed for analysts, researchers, and decision-makers to unlock meaning from data faster than ever.
 
-## 🚀 Live Preview
-> *(Optional: Add your deployment link here)*
-
 ## 📦 Tech Stack
 
 - **React 18 + TypeScript** – Modern UI and strict type safety
